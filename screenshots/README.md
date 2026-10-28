@@ -1,11 +1,10 @@
 # Capturi de ecran (Screenshots)
 
 Adăugați în acest folder capturile de ecran de pe emulator sau telefon:
-- `01_login.png` — Ecranul de autentificare (Login)
-- `02_categorii_toate.png` — Lista locurilor (filtru: Toate)
-- `03_categorii_sport.png` — Lista locurilor (filtru: Sport)
-- `04_categorii_muzee.png` — Lista locurilor (filtru: Muzee)
-- `05_categorii_restaurante.png` — Lista locurilor (filtru: Restaurante)
-- `06_detaliu_loc.png` — Ecranul de detaliu al unui loc
-- `07_favorite.png` — Ecranul Favorite
-- `08_despre.png` — Ecranul Despre aplicație
+- `01_lista_aplicatii.png` — Cum arata aplicatia in lista de aplicatii
+- `02_logo_loading.png` — Logo loading
+- `03_login.png` — Pagina de login
+- `04_meniu_principal.png` — Meniul principal al aplicatiei
+- `05_despre_aplicatie.png` — Ecran despre aplicatie
+- `06_detalii_loc.png` — Afisare detalii loc selectat
+- `07_locuri_favorite.png` — Ecranul de locuri favorite
